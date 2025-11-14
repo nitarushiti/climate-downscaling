@@ -1,0 +1,7 @@
+Required R packages: 
+dplyr
+ncdf4
+tidyr
+Metrics
+lubridate
+stringr
